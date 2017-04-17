@@ -1,2 +1,2 @@
 # Angular-ecommerce-demo
-Ecommerce demo made with Angular 4
+Ecommerce web application built with Angular 4
