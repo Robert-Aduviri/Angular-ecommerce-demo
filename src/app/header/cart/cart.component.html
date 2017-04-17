@@ -1,0 +1,11 @@
+<div class="btn-group" appDropdown>
+  <button type="button"
+    class="btn btn-default dropdown-toggle"
+    aria-expanded="false">
+    <span class="glyphicon glyphicon-shopping-cart"></span> Shopping Cart
+  </button>
+  <app-cart-list
+    class="dropdown-menu dropdown-cart"
+    [products]="products">
+  </app-cart-list>
+</div>
